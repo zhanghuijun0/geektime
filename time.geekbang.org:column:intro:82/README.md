@@ -1,4 +1,2 @@
-
-
-<https://zhanghuijun0.github.io/geektime/time.geekbang.org:column:intro:82/00丨开篇词丨以面试题为切入点，有效提升你的Java内功.html>
-<https://zhanghuijun0.github.io/geektime/time.geekbang.org:column:intro:82/第34讲丨有人说“Lambda能让Java程序慢30倍”，你怎么看？.html>
+[00丨开篇词丨以面试题为切入点，有效提升你的Java内功.html](https://zhanghuijun0.github.io/geektime/time.geekbang.org:column:intro:82/00丨开篇词丨以面试题为切入点，有效提升你的Java内功.html)
+[第34讲丨有人说“Lambda能让Java程序慢30倍”，你怎么看？.html](https://zhanghuijun0.github.io/geektime/time.geekbang.org:column:intro:82/第34讲丨有人说“Lambda能让Java程序慢30倍”，你怎么看？.html)
